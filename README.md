@@ -202,6 +202,4 @@ Key services to configure:
 
 ---
 
-## License
-
-MIT License — free to use for personal and commercial projects.
+Copyright © 2026 Agegnehu Shibiru. All rights reserved.
