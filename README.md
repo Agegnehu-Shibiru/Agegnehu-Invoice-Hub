@@ -1,4 +1,4 @@
-# InvoiceHub Pro
+# Agegnehu Invoice Hub
 
 A production-ready, full-stack invoice generator and client portal built with React 18 + Vite, Express.js, MongoDB, Stripe, PayPal, and Resend.
 
